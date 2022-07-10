@@ -237,7 +237,7 @@ func CardToText(card int) string {
 		text += "королева"
 		break
 	case King:
-		text += "пик"
+		text += "король"
 		break
 	case Six:
 		text += "шесть"
