@@ -1,0 +1,201 @@
+[
+  {
+    "word": "арбуз",
+    "edible": true
+  },
+
+  {
+    "word": "автобус",
+    "edible": false
+  },
+
+  {
+    "word": "фокус",
+    "edible": false
+  },
+
+  {
+    "word": "кактус",
+    "edible": false
+  },
+
+  {
+    "word": "вертолет",
+    "edible": false
+  },
+
+  {
+    "word": "самолет",
+    "edible": false
+  },
+
+  {
+    "word": "компот",
+    "edible": true
+  },
+
+  {
+    "word": "бутерброд",
+    "edible": true
+  },
+
+  {
+    "word": "монеты",
+    "edible": false
+  },
+
+  {
+    "word": "котлеты",
+    "edible": true
+  },
+
+  {
+    "word": "омлет",
+    "edible": true
+  },
+
+  {
+    "word": "винегрет",
+    "edible": true
+  },
+
+  {
+    "word": "мармелад",
+    "edible": true
+  },
+
+  {
+    "word": "виноград",
+    "edible": true
+  },
+
+  {
+    "word": "снегопад",
+    "edible": false
+  },
+
+  {
+    "word": "ленинград",
+    "edible": false
+  },
+
+  {
+    "word": "чемодан",
+    "edible": false
+  },
+
+  {
+    "word": "пирог",
+    "edible": true
+  },
+
+  {
+    "word": "дом",
+    "edible": false
+  },
+
+  {
+    "word": "розетку",
+    "edible": false
+  },
+
+  {
+    "word": "утюг",
+    "edible": false
+  },
+
+  {
+    "word": "яблоко",
+    "edible": true
+  },
+
+  {
+    "word": "сметана",
+    "edible": true
+  },
+
+  {
+    "word": "борщ",
+    "edible": true
+  },
+
+  {
+    "word": "жакет",
+    "edible": false
+  },
+
+  {
+    "word": "салат",
+    "edible": true
+  },
+
+  {
+    "word": "машина",
+    "edible": false
+  },
+
+  {
+    "word": "груша",
+    "edible": true
+  },
+
+  {
+    "word": "кисель",
+    "edible": true
+  },
+
+  {
+    "word": "гайка",
+    "edible": false
+  },
+
+  {
+    "word": "балалайка",
+    "edible": false
+  },
+
+  {
+    "word": "светофор",
+    "edible": false
+  },
+
+  {
+    "word": "щи",
+    "edible": true
+  },
+
+  {
+    "word": "доски",
+    "edible": false
+  },
+
+  {
+    "word": "мёд",
+    "edible": true
+  },
+
+  {
+    "word": "котелок",
+    "edible": false
+  },
+
+  {
+    "word": "шалаш",
+    "edible": false
+  },
+
+  {
+    "word": "сосиски",
+    "edible": true
+  },
+
+  {
+    "word": "кетчуп",
+    "edible": true
+  },
+
+  {
+    "word": "апельсин",
+    "edible": true
+  }
+]
